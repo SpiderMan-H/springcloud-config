@@ -1,2 +1,3 @@
 config:
   info: "master branch,springcloud-config/config-dev.yml version=6" 
+  test: 修改以后的文件
